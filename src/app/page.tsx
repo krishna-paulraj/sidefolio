@@ -19,9 +19,9 @@ export default function Home() {
         millions of lives
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a senior software engineer with{" "}
-        <Highlight>7 years of experience</Highlight> building scalable web apps
-        that are performance optimized and good looking.
+        My love for coding began in 10th grade, and since then, I have
+        continuously honed my skills to stay at the forefront of web
+        development.
       </Paragraph>
       <Heading
         as="h2"
