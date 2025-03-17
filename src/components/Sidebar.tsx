@@ -33,7 +33,10 @@ export const Sidebar = () => {
               <Navigation setOpen={setOpen} />
             </div>
             <div onClick={() => isMobile() && setOpen(false)}>
-              <Badge href="/resume" text="Read Resume" />
+              <Badge
+                href="https://drive.google.com/file/d/1dwAWPkNhnmnSIxYgTEuyoLpMwFup_oOQ/view?usp=sharing"
+                text="Read Resume"
+              />
             </div>
           </motion.div>
         )}
